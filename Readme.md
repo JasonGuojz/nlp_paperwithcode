@@ -37,7 +37,8 @@ author: [RINANTE](https://github.com/HKUST-KnowComp/RINANTE)
 
 ## Neural Networks with Logic Rules
 * A Short Introduction to Probabilistic Soft Logic [pdf](http://cs.brown.edu/people/sbach/files/kimmig-probprog12.pdf)  
-author: [PSL](https://psl.linqs.org/)
+author: [PSL](https://psl.linqs.org/)  
+video: [LINQS Lab](https://www.youtube.com/channel/UCJjzqRLiAIa3qENUkzK0zMA)
 * Harnessing Deep Neural Networks with Logic Rules [arxiv](https://arxiv.org/abs/1603.06318)  
 author: [An implementation of the in application of sentiment classification](https://github.com/ZhitingHu/logicnn)  
 related paper implementation: [Logic Rules for Sentiment Classification](https://github.com/martiansideofthemoon/logic-rules-sentiment)
