@@ -60,3 +60,7 @@ reproduction: [paperwithcode](https://paperswithcode.com/paper/what-uncertaintie
 author: [Experiments used in "Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning"](https://github.com/yaringal/DropoutUncertaintyExps)
 * On Calibration of Modern Neural Networks [author's blog](https://geoffpleiss.com/nn_calibration)  
 author: [A simple way to calibrate your neural network.](https://github.com/gpleiss/temperature_scaling)
+
+## Machine Learning
+* Unsupervised Deep Embedding for Clustering Analysis [arxiv](https://arxiv.org/abs/1511.06335)  
+reproduction: [code](https://github.com/vlukiyanov/pt-dec)
